@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "111189185290",
+    "project_id": "myprojectfirebase-fde18",
+    "storage_bucket": "myprojectfirebase-fde18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111189185290:android:c4dc8f824aa22e29fba0f3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHEUaMmHDZRDa27cYBgV4ycFKN7zfLds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111189185290:android:a917a3475d8828cffba0f3",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHEUaMmHDZRDa27cYBgV4ycFKN7zfLds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111189185290:android:557684bd4f6fa3fcfba0f3",
+        "android_client_info": {
+          "package_name": "com.example.week10_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHEUaMmHDZRDa27cYBgV4ycFKN7zfLds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
